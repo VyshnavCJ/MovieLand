@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# MovieLand
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Simple project to learn React
+This Website shows movie name and year which we search on search bar
 
 ## Available Scripts
 
