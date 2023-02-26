@@ -1,7 +1,7 @@
 # MovieLand
 
 A Simple project to learn React.
-This Website shows movie name and year which we search on search bar
+This Website shows movie names and year of which we search on search bar
 
 ## Available Scripts
 
